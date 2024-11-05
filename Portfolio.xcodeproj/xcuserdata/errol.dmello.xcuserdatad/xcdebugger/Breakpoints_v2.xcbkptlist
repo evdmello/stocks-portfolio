@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5DDD0820-B095-40E9-82D9-F58173A18FDD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "AFE8EB29-2636-4799-97A7-1217A948CD27"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "aa"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "UIRefreshControlReceivedOffscreenBeginRefreshing"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "AFE8EB29-2636-4799-97A7-1217A948CD27 - 9e48a4d4e2be476a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIRefreshControlReceivedOffscreenBeginRefreshing"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "1B318592-50DB-4AAB-B4C2-C5607FA02CE7"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "aa"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "UIViewAlertForUnsatisfiableConstraints"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "1B318592-50DB-4AAB-B4C2-C5607FA02CE7 - ba3ad5676a792f38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIViewAlertForUnsatisfiableConstraints"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
